@@ -1,0 +1,1 @@
+The input values entered are {{ $fullname}}, {{$email }} and {{ $password }}
